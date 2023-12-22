@@ -1,0 +1,1 @@
+The Text Classification for Lighting Product Detection project involves the development of a Flask-based application capable of analyzing text data extracted from a provided link (e.g., datasheet, product description) to determine whether the content corresponds to a lighting product or not.
